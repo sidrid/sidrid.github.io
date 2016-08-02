@@ -1,2 +1,2 @@
 # sidrid.github.io
-Personal touch
+A portfolio of personal projects and code that can be shared publicly.
